@@ -6,7 +6,7 @@ serviceName: accounts
 appLabel: accounts
 appName: accounts
 
-replicaCount: 2
+replicaCount: 1
 
 image:
   repository: shivere/accounts
